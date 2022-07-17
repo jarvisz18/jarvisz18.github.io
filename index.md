@@ -25,7 +25,8 @@
 + [Redis 开发规范](https://github.com/jarvisz18/zero-knowledge/blob/master/java-docs/4.%E5%AD%98%E5%82%A8%E7%9B%B8%E5%85%B3/redis/01.redis%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83.md)
 
 #### 5. ElasticSearch
-+ [ES 笔记](https://github.com/jarvisz18/zero-knowledge/blob/master/java-docs/4.%E5%AD%98%E5%82%A8%E7%9B%B8%E5%85%B3/elastic/elasticsearch.md)
++ [ES 笔记](https://github.com/jarvisz18/zero-knowledge/blob/master/java-docs/4.%E5%AD%98%E5%82%A8%E7%9B%B8%E5%85%B3/ElasticSearch/ElasticSearch.md)
++ [Solr 快速入门](https://github.com/jarvisz18/zero-knowledge/blob/master/java-docs/4.%E5%AD%98%E5%82%A8%E7%9B%B8%E5%85%B3/solr/01.solr_quick_start.md)
 
 
 #### 6.MySQL
