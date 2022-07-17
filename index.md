@@ -1,4 +1,4 @@
-## Welcome to Jarvis Zhang GitHub Pages
+## No practice,no gain in one's wit
 
 
 
@@ -35,6 +35,6 @@
 
 
 ### 联系我
-stackzhang@126.com
+Email: stackzhang@126.com
 
 
